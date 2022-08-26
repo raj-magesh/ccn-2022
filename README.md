@@ -8,8 +8,8 @@ Thanks for your interest! :D
 
 ## Links
 
- - [manuscript](https://doi.org/10.32470/CCN.2022.1249-0)
-- [poster](https://github.com/raj-magesh/ccn-2022/blob/main/poster/poster.pdf)
+- [Manuscript](https://doi.org/10.32470/CCN.2022.1249-0)
+- [Poster](https://github.com/raj-magesh/ccn-2022/blob/main/poster/poster.pdf)
 
 ## Authors
 
