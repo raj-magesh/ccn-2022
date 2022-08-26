@@ -6,6 +6,12 @@ If you're here, you probably scanned the QR code on my poster at CCN (Conference
 
 Thanks for your interest! :D
 
-[Link to manuscript](https://doi.org/10.32470/CCN.2022.1249-0)
-[Link to poster](https://github.com/raj-magesh/ccn-2022/blob/main/poster/poster.pdf)
+## Links
 
+ - [manuscript](https://doi.org/10.32470/CCN.2022.1249-0)
+- [poster](https://github.com/raj-magesh/ccn-2022/blob/main/poster/poster.pdf)
+
+## Authors
+
+- Raj Magesh Gauthaman (that's me!)
+- [Michael F Bonner](https://bonnerlab.org/) (that's my advisor!)
